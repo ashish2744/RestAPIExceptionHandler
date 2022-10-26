@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.rest;
+package com.luv2code.springdemo.rest.exception;
 
 public class StudentErrorResponse {
 	private int status;

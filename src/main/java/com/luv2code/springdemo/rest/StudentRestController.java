@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.luv2code.springdemo.entity.Student;
+import com.luv2code.springdemo.rest.exception.StudentNotFoundException;
 
 @RestController
 @RequestMapping("/api")
